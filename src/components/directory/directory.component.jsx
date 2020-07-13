@@ -10,7 +10,7 @@ class Directory extends React.Component {
       sections: [
         {
           title: 'hats',
-          imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
+          imageUrl: 'https://i.ibb.co/7SpN8XX/hat.jpg',
           id: 1,
           linkUrl: 'shop/hats'
         },
@@ -22,20 +22,20 @@ class Directory extends React.Component {
         },
         {
           title: 'sneakers',
-          imageUrl: 'https://i.ibb.co/0jqHpnp/sneakers.png',
+          imageUrl: 'https://i.ibb.co/cg4qTN8/shoes.jpg',
           id: 3,
           linkUrl: 'shop/sneakers'
         },
         {
           title: 'womens',
-          imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
+          imageUrl: 'https://i.ibb.co/cwRY5Cz/womensa.jpg',
           size: 'large',
           id: 4,
           linkUrl: 'shop/womens'
         },
         {
           title: 'mens',
-          imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
+          imageUrl: 'https://i.ibb.co/6yn7dCg/Mens.jpg',
           size: 'large',
           id: 5,
           linkUrl: 'shop/mens'
